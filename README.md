@@ -3,8 +3,6 @@ Testing Node.js CRUD Application With Mocha and Chai
 
 How to test?
 
-`$ npm install -g mocha`
-
 `$ npm install`
 
 `$ mocha`
